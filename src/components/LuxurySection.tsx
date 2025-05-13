@@ -12,9 +12,9 @@ const LuxurySection: React.FC = () => {
         </div>
         
         <p className="text-gray-700 text-center max-w-3xl mx-auto mb-16 leading-relaxed">
-          From your initial inquiry to the delivery of your wedding film, Conjugate Vows is committed to excellence 
+          From your initial inquiry to the delivery of your wedding film, Conjugal Vows is committed to excellence 
           at every step. For those who chase the lifestyle of dreams, value connections between family and 
-          friends, and live life celebrating, Conjugate Vows is the film house for you.
+          friends, and live life celebrating, Conjugal Vows is the film house for you.
         </p>
         
         <div className="grid md:grid-cols-2 gap-8">

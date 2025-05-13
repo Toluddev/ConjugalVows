@@ -22,7 +22,7 @@ const IntroSection: React.FC = () => {
         </div>
         
         <p className="text-gray-700 leading-relaxed mb-10 max-w-3xl mx-auto text-center">
-        Conjugate Vows is committed to producing stunning wedding films for couples who want to celebrate their love 
+        Conjugal Vows is committed to producing stunning wedding films for couples who want to celebrate their love 
         with elegance and adventure. From capturing intimate moments to documenting grand love stories in 
         breathtaking destinations like Venice, we create timeless films for those who value style, emotion, and 
         unforgettable memories.

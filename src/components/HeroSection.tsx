@@ -32,7 +32,7 @@ const HeroSection: React.FC<HeroSectionProps> = ({ videoSrc, logoLarge = true })
             className={`font-serif text-white font-light tracking-wider mb-6 
               ${logoLarge ? 'text-5xl sm:text-6xl md:text-7xl lg:text-8xl' : 'text-3xl sm:text-4xl md:text-5xl lg:text-6xl'}`}
           >
-            CONJUGATE <br /> VOWS
+            CONJUGAL <br /> VOWS
         </h1>
         
         <h2 className="elegant-heading text-xl md:text-2xl mb-4">FILM MAKER</h2>

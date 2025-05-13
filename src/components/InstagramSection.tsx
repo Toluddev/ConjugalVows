@@ -32,7 +32,7 @@ const InstagramSection: React.FC = () => {
           <div className="absolute inset-0 flex items-center justify-center">
             <div className="bg-white bg-opacity-95 py-8 px-10 text-center">
               <a 
-                href="https://instagram.com/conjugatevows" 
+                href="https://instagram.com/conjugalvows" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="block hover:opacity-80 transition-opacity duration-300"

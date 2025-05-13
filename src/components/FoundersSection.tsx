@@ -8,7 +8,7 @@ const FoundersSection: React.FC = () => {
         <div className="aspect-square">
           <img 
             src="/lovable-uploads/IMG_54F2AB6023F4-1.jpeg" 
-            alt="Founder of Conjugate Vows" 
+            alt="Founder of Conjugal Vows" 
             className="w-full h-full object-cover"
           />
         </div>
@@ -20,7 +20,7 @@ const FoundersSection: React.FC = () => {
           <h3 className="text-xl md:text-2xl mb-6 tracking-wider">TOLUWANIMI OLUDIPE</h3>
           
           <p className="text-gray-300 mb-8 leading-relaxed">
-            Toluwanimi founded Conjugate Vows through a shared 
+            Toluwanimi founded Conjugal Vows through a shared 
             passion for storytelling and filmmaking. What began as a 
             collaborative journey <br/>evolved into a platform for capturing 
             adventurous love stories.
