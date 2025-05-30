@@ -5,7 +5,7 @@ const FoundersSection: React.FC = () => {
   return (
     <section className="py-20 md:py-32 bg-black text-white px-6 md:px-0">
       <div className="max-w-7xl mx-auto grid md:grid-cols-2 gap-12 items-center">
-        <div className="aspect-square">
+        <div data-aos="fade-right"  className="aspect-square">
           <img 
             src="/lovable-uploads/IMG_54F2AB6023F4-1.jpeg" 
             alt="Founder of Conjugal Vows" 
@@ -14,16 +14,15 @@ const FoundersSection: React.FC = () => {
         </div>
         
         <div className="md:pl-8">
-          <h2 className="font-serif text-4xl md:text-5xl mb-4 tracking-wide">MEET THE <br />FOUNDER</h2>
+          <h2 data-aos="fade-right"  className="font-serif text-4xl md:text-5xl mb-4 tracking-wide">MEET THE <br />FOUNDER</h2>
           <div className="w-20 h-0.5 bg-white mb-8"></div>
           
-          <h3 className="text-xl md:text-2xl mb-6 tracking-wider">TOLUWANIMI OLUDIPE</h3>
+          <h3 data-aos="fade-left"  className="text-xl md:text-2xl mb-6 tracking-wider">TOLUWANIMI OLUDIPE</h3>
           
           <p className="text-gray-300 mb-8 leading-relaxed">
-            Toluwanimi founded Conjugal Vows through a shared 
-            passion for storytelling and filmmaking. What began as a 
-            collaborative journey <br/>evolved into a platform for capturing 
-            adventurous love stories.
+          Toluwanimi established Conjugal Vows as a creative sanctuary where authentic love stories come to life. 
+          What started as a personal passion blossomed into a dedicated practice of documenting the bold,
+           beautiful,<br /> and adventurous journeys that couples embark on together.
           </p>
           
           <button className="elegant-button">

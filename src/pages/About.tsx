@@ -20,26 +20,30 @@ const About = () => {
         {/* About Content */}
         <section className="py-20 md:py-32 px-6 md:px-12 bg-white text-black">
           <div className="max-w-5xl mx-auto">
-            <h2 className="font-serif text-4xl md:text-5xl text-center mb-12">Our Story</h2>
+            <h2 data-aos="fade-right"  className="font-serif text-4xl md:text-5xl text-center mb-12">ABOUT</h2>
             
             <div className="prose prose-lg mx-auto">
               <p>
-                Conjugal Vows was founded with a simple yet powerful mission: to create cinematic wedding films that 
-                capture the authentic emotions and unique stories of each couple we work with. We believe that your 
-                wedding film should be more than just a documentation of events—it should be a piece of art that 
-                transports you back to those precious moments every time you watch it.
+              We're visual storytellers who specialize in capturing the intersection of love, style, and culture. Our approach goes beyond traditional
+              wedding documentation to create cinematic experiences that reflect not just your 
+              special day, but the essence of your relationship itself.<br />
+              <div className="w-20 h-0.5 bg-black mt-3 mb-5"></div>
+              <em>At Conjugal Vows, we believe every couple has a narrative worth celebrating. </em>
+              <br />
+              </p>
+              <div className="w-20 h-0.5 bg-black mt-3 mb-5"></div>
+              <p>
+              Every couple brings their own rhythm, their own aesthetic, their own way of moving through
+              the world together. We take time to understand what makes your love story distinctive.
               </p>
               
               <p>
-                Our approach is rooted in a deep appreciation for storytelling, cinematography, and the beautiful 
-                complexity of human relationships. We don't just film weddings; we craft visual narratives that 
-                celebrate love in its most authentic form.
+              From our first meeting to the moment you receive your completed films, we're dedicated to 
+              being present, professional, and genuinely excited about bringing your vision to life.
               </p>
-              
               <p>
-                Beyond our work with couples, we're passionate about elevating the art of wedding filmmaking. 
-                Through education and community-building, we aim to inspire the next generation of filmmakers 
-                to approach their craft with creativity, intentionality, and excellence.
+              Because at the end of the day, we're not just
+               capturing your wedding. We're preserving the beginning of your forever.
               </p>
             </div>
           </div>

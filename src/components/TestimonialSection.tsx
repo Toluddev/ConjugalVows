@@ -16,7 +16,7 @@ const TestimonialSection: React.FC = () => {
       
       {/* Content */}
       <div className="relative z-20 text-center max-w-4xl px-6 mx-auto">
-        <p className="italic-script mb-6">Tolu & Eniola</p>
+        <p data-aos="fade-down"  className="italic-script mb-6">Tolu & Eniola</p>
         
         <blockquote className="mb-8">
           <p className="text-white text-xl md:text-2xl leading-relaxed font-serif mb-4">

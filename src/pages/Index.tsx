@@ -1,5 +1,7 @@
 
-import React from 'react';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+import { useEffect } from "react";
 import HeroSection from '../components/HeroSection';
 import IntroSection from '../components/IntroSection';
 import TestimonialSection from '../components/TestimonialSection';
@@ -10,6 +12,20 @@ import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 
 const Index = () => {
+  useEffect(() => {
+    AOS.init({
+      offset: 100, 
+      duration: 800, 
+      easing: 'ease-in-out', 
+      once: true, 
+      delay: 500,
+    });
+  
+   
+    return () => {
+      AOS.refresh(); 
+    };
+  }, []);
   return (
     <div className="min-h-screen bg-black text-white">
       <Navbar />

@@ -5,9 +5,9 @@ const LuxurySection: React.FC = () => {
   return (
     <section className="py-20 md:py-32 bg-white text-black px-6 md:px-0">
       <div className="max-w-6xl mx-auto">
-        <div className="text-center mb-16">
-          <p className="font-italianno text-5xl md:text-6xl text-black mb-4">Timeless Luxury</p>
-          <h2 className="font-serif text-xl md:text-2xl uppercase tracking-wider mb-2">CAPTURING YOUR STORY WITH AN</h2>
+        <div data-aos="fade-down"  className="text-center mb-16">
+          <p  className="font-italianno text-5xl md:text-6xl text-black mb-4">Timeless Luxury</p>
+          <h2  className="font-serif text-xl md:text-2xl uppercase tracking-wider mb-2">CAPTURING YOUR STORY WITH AN</h2>
           <h3 className="font-serif text-xl md:text-2xl uppercase tracking-wider">UNCOMPROMISING DEDICATION TO QUALITY.</h3>
         </div>
         
@@ -18,7 +18,7 @@ const LuxurySection: React.FC = () => {
         </p>
         
         <div className="grid md:grid-cols-2 gap-8">
-          <div className="aspect-video relative">
+          <div data-aos="fade-right"  className="aspect-video relative">
             <img 
               src="/lovable-uploads/low-angle-people-celebrating-wedding-nature.jpg" 
               alt="Luxury Wedding Venue" 
@@ -34,7 +34,7 @@ const LuxurySection: React.FC = () => {
             </div> */}
           </div>
           
-          <div className="aspect-video">
+          <div data-aos="fade-left"  className="aspect-video">
             <img 
               src="/lovable-uploads/people-enjoying-burnt-orange-wedding.jpg" 
               alt="Wedding Couple" 

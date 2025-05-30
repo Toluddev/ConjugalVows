@@ -10,10 +10,10 @@ const IntroSection: React.FC = () => {
           <p className="font-italianno text-4xl md:text-5xl text-black mb-2">CV</p>
         </div>
         
-        <h2 className="font-serif text-2xl md:text-3xl tracking-wide mb-2">THE <em>RE-IMAGINED STANDARD</em> IN</h2>
-        <h3 className="font-serif text-3xl md:text-4xl tracking-wide uppercase mb-12">QUALITY WEDDING FILMMAKING</h3>
+        <h2 data-aos="fade-down"  className="font-serif text-2xl md:text-3xl tracking-wide mb-2"> <em>REDEFINING  THE STANDARD</em></h2>
+        <h3 data-aos="fade-down"  className="font-serif text-3xl md:text-4xl tracking-wide uppercase mb-12">ONE WEDDING  FILM AT A TIME</h3>
         
-        <div className="mb-12 flex justify-center">
+        <div data-aos="fade-up"  className="mb-12 flex justify-center">
           <img 
             src="/lovable-uploads/front-view-bride-groom-posing-outdoors.jpg" 
             alt="Luxury Wedding" 

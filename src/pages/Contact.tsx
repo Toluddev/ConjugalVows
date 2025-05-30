@@ -100,7 +100,7 @@ const Contact = () => {
                   <div>
                     <p className="font-medium mb-1">Instagram</p>
                     <a href="https://instagram.com/ruvows" className="text-gray-600 hover:text-black transition-colors">
-                      @conjugalows
+                      @conjugalvows
                     </a>
                   </div>
                 </div>

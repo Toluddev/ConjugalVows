@@ -26,20 +26,20 @@ const HeroSection: React.FC<HeroSectionProps> = ({ videoSrc, logoLarge = true })
       
       {/* Content */}
       <div className="relative z-20 text-center max-w-4xl px-6">
-        <p className="italic-script mb-2">ESTD 2025</p>
+        <p data-aos="fade-down" className="italic-script mb-2">ESTD 2025</p>
         
-        <h1
+        <h1 
+            data-aos="fade-right" 
             className={`font-serif text-white font-light tracking-wider mb-6 
               ${logoLarge ? 'text-5xl sm:text-6xl md:text-7xl lg:text-8xl' : 'text-3xl sm:text-4xl md:text-5xl lg:text-6xl'}`}
           >
             CONJUGAL <br /> VOWS
         </h1>
         
-        <h2 className="elegant-heading text-xl md:text-2xl mb-4">FILM MAKER</h2>
+        <h2 data-aos="fade-up"  className="elegant-heading text-xl md:text-2xl mb-4">Luxury, Intimate Destination Wedding Films</h2>
         
-        <p className="text-gray-200 text-sm md:text-base tracking-wider uppercase mb-8 max-w-2xl mx-auto">
-        Educate. Collaborate. Celebrate.
-          <br />FOR LUXURY WEDDING FILMMAKING
+        <p data-aos="fade-up"  className=" font-serif text-gray-200 text-sm md:text-base tracking-wider uppercase mb-8 max-w-2xl mx-auto">
+          DOCUMENTING LOVE STORIES <br />WITHOUT BORDERS
         </p>
       </div>
     </section>
