@@ -22,10 +22,12 @@ const IntroSection: React.FC = () => {
         </div>
         
         <p className="text-gray-700 leading-relaxed mb-10 max-w-3xl mx-auto text-center">
-        Conjugal Vows is committed to producing stunning wedding films for couples who want to celebrate their love 
-        with elegance and adventure. From capturing intimate moments to documenting grand love stories in 
-        breathtaking destinations like Venice, we create timeless films for those who value style, emotion, and 
-        unforgettable memories.
+        We're visual storytellers who specialize in capturing the intersection of love, style, and culture. 
+        Our approach goes beyond traditional wedding documentation to create cinematic experiences 
+        that reflect not just your special day, but the essence of your relationship itself.
+
+        
+
         </p>
         
         <Link to="/about" className="inline-block border-b border-black text-black uppercase tracking-widest text-sm hover:text-gray-600 transition-colors">
