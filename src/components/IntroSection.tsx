@@ -21,7 +21,7 @@ const IntroSection: React.FC = () => {
           />
         </div>
         
-        <p className="text-black font-mono leading-relaxed mb-10 max-w-3xl mx-auto text-center text-[20px] sm:text-[20px] md:text-[22px] lg:text-[20px] ">
+        <p className="text-gray-900  leading-relaxed mb-10 max-w-3xl mx-auto text-center text-[20px] sm:text-[20px] md:text-[22px] lg:text-[20px] ">
         Conjugal Vows is committed to producing stunning wedding films for couples who want to celebrate their love 
         with elegance and adventure.
         </p>
