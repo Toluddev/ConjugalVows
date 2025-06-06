@@ -26,11 +26,16 @@ const IntroSection: React.FC = () => {
           style, and culture. Our approach goes beyond traditional wedding documentation 
           to create cinematic experiences that reflect not just your special day,<br /> but the essence of your
           relationship itself.
-          
+
+
+
+
         </p>
         
         <Link to="/about" className="inline-block border-b border-black text-black uppercase tracking-widest text-sm hover:text-gray-600 transition-colors">
           LEARN MORE
+
+          
         </Link>
       </div>
     </section>
