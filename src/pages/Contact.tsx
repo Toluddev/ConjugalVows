@@ -184,8 +184,6 @@ const Contact = () => {
                         placeholder="John Smith"
                       />
 
-
-                      
                     </div>
 
                     <div>
