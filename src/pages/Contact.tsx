@@ -183,6 +183,9 @@ const Contact = () => {
                         className="w-full bg-white border-gray-300 border p-3 focus:ring-0 focus:border-grey-300"
                         placeholder="John Smith"
                       />
+
+
+                      
                     </div>
 
                     <div>
