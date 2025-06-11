@@ -19,8 +19,6 @@ const HeroSection: React.FC<HeroSectionProps> = ({ videoSrc, logoLarge = true })
       >
         <source src={bgvideo} type="video/mp4" />
         Your browser does not support the video tag.
-
-        
       </video>
       
       {/* Overlay */}
