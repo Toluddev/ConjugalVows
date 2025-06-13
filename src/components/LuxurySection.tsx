@@ -17,6 +17,8 @@ const LuxurySection: React.FC = () => {
         From our first meeting to the moment you receive your completed films, 
         we're dedicated to being present, professional, and genuinely excited about bringing your vision to life.
         Because at the end of the day, we're not just capturing your wedding. 
+
+        
         We're preserving the beginning of your forever.
 
         </p>
