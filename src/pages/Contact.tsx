@@ -163,7 +163,9 @@ const Contact = () => {
                     value={formData.name}
                     onChange={handleInputChange}
                     className="w-full bg-white border-gray-300 border p-3 focus:ring-0 focus:border-black"
-                    placeholder="Your name here  "
+                    placeholder="Your name here 
+                    
+                    "
                     required
                   />
                 </div>
