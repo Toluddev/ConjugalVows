@@ -14,11 +14,10 @@ const LuxurySection: React.FC = () => {
         <p className="text-gray-700 text-center max-w-3xl mx-auto mb-16 leading-relaxed">
         Every couple brings their own rhythm, their own aesthetic, their own way of moving through the world together.
          We take time to understand what makes your love story distinctive
-         
+
         From our first meeting to the moment you receive your completed films, 
         we're dedicated to being present, professional, and genuinely excited about bringing your vision to life.
         Because at the end of the day, we're not just capturing your wedding. 
-
         We're preserving the beginning of your forever.
 
         </p>
