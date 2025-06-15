@@ -21,6 +21,7 @@ const TestimonialSection: React.FC = () => {
         <blockquote className="mb-8">
           <p className="text-white text-xl md:text-2xl leading-relaxed font-serif mb-4">
             "I'M NOT EVEN SURE WHERE TO BEGIN. THEIR WORK 
+            
             TRULY SPEAKS FOR ITSELF. I HAVE NEVER FELT MORE 
             COMFORTABLE IN FRONT OF THE CAMERA. THE VIDEO 
             THEY CREATED...
