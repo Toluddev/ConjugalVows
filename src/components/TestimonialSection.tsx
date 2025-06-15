@@ -25,7 +25,6 @@ const TestimonialSection: React.FC = () => {
             TRULY SPEAKS FOR ITSELF. I HAVE NEVER FELT MORE 
 
             COMFORTABLE IN FRONT OF THE CAMERA. THE VIDEO 
-            
             THEY CREATED...
           </p>
           <p className="text-white text-xl md:text-2xl leading-relaxed font-serif italic mb-4">
