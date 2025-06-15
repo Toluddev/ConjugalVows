@@ -23,7 +23,6 @@ const TestimonialSection: React.FC = () => {
             "I'M NOT EVEN SURE WHERE TO BEGIN. THEIR WORK 
 
             TRULY SPEAKS FOR ITSELF. I HAVE NEVER FELT MORE 
-
             COMFORTABLE IN FRONT OF THE CAMERA. THE VIDEO 
             THEY CREATED...
           </p>
